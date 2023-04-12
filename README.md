@@ -1,1 +1,1 @@
-https://okanivan.github.io/TEST/
+https://okanivan.github.io/DIGITF/
