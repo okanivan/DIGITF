@@ -1,7 +1,4 @@
 @media (min-width: 375px) {
-    .comment-form input, .comment-form textarea{
-        width: 165%;
-    }
     .footer-title:after {
         margin-bottom: 7%;
     }
@@ -19,9 +16,6 @@
     .contact-title:after {
         width: 68%;
     }
-    .comment-form input, .comment-form textarea {
-        width: 190%;
-    }
     .testimonial-title:after {
         width: 64%;
     }
@@ -29,10 +23,10 @@
     .testimonial-col h3 {
         margin-left: 35%;
     }
-    .footer-col form{
-        margin-left:50px;
+    .footer-col form {
+        margin-left: 50px;
     }
-    .social-links{
+    .social-links {
         margin-left: 40px;
     }
     .footer-col .social-links a {
@@ -40,9 +34,9 @@
     }
 }
 @media (min-width: 768px) {
- .text-lg-start{
-     text-align: start !important;
- }
+    .text-lg-start{
+        text-align: start !important;
+    }
     .about-title {
         margin-top: 65px;
     }
@@ -72,13 +66,14 @@
         width: 50%;
         margin: -25% 0 0 25%;
     }
-    iframe{
-        width: 50%;
-        margin-left: 50%;
+    iframe {
+        width: 325px;
+        margin-left: 57%;
     }
-    .comment-form{
-        margin: -41% 75% 0 0;
-     }
+    .comment-form {
+        width: 55%;
+        margin-top: -300px;
+    }
     .testimonial-col {
         flex-basis: 70%;
         margin-left: 13%;
@@ -94,8 +89,8 @@
         margin-top: 5%;
     }
     .footer-title:after {
-            margin-bottom: 3%;
-        }
+        margin-bottom: 3%;
+    }
     .footer-row{
         display: inline-flex;
     }
@@ -117,12 +112,12 @@
         margin: -4% 0 10% 12%;
         gap: 20px;
     }
-   .dropdown{
-    margin-left: 35%;
-    display: flex;
-    gap: 40px;
-    color: white;
-}
+    .dropdown{
+        margin-left: 35%;
+        display: flex;
+        gap: 40px;
+        color: white;
+    }
     .dropdown i:hover{
         color: #0F1521;
     }
@@ -171,14 +166,14 @@
     .contact-title:after {
         width: 8%;
     }
+    iframe {
+        width:40%;
+    }
     .testimonial-title{
         margin-left: 1%;
     }
     .testimonial-title:after {
         width: 8%;
-    }
-    .comment-form input, .comment-form textarea {
-        width: 225%;
     }
     .testimonial {
         display: inline-block;
@@ -198,9 +193,6 @@
         font-size: 14px;
         width: 100%;
     }
-    .comment-box{
-        margin-block:10%;
-    }
 }
 @media (min-width: 1440px) {
     .menu__list {
@@ -212,7 +204,7 @@
         gap: 75%;
     }
     .text-lg-start {
-        margin-left: 0%;
+        margin-left: 0;
         margin-top: 10%;
     }
     .row {
@@ -232,12 +224,6 @@
     }
     a.click {
         margin: 8px;
-    }
-    .comment-form input, .comment-form textarea {
-        width: 265%;
-    }
-    .comment-box{
-        margin-block: 15%;
     }
     .testimonial-title{
         margin-left: 9%;

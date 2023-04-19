@@ -30,7 +30,7 @@ body.lock{
     font-size: 50px;
 }
                                                                       /*header*/
-                                                                        /*МЕНЮ*/
+                                                                       /*MENU*/
 .menu__list{
     list-style-type: none;
     display: flex;
@@ -46,7 +46,7 @@ body.lock{
 .menu__link:hover{
     color: green;
 }
-                                                                        /*МЕНЮ*/
+                                                                        /*MENU*/
                                                                         /*About us*/
 .about-title{
     margin-top: 50px;
@@ -204,16 +204,22 @@ iframe {
     left: 5px;
     width: 59%;
 }
+.comment-form{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+
+}
 .comment-form input,.comment-form textarea {
-    width:140%;
-    padding:15px;
-    border:none;
-    background-color: rgb(255, 255, 255);
-    box-shadow: 0 10px 8px 0 rgba(2, 3, 8, 0.11);
+    width:100%;
     margin-top:10px;
     font-size: 15px;
+    padding: 15px;
+    border:none;
     font-family: "Roboto",sans-serif;
     text-align:left;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 10px 8px 0 rgba(2, 3, 8, 0.11);
 }
                                                                         /*Contact Us*/
                                                                        /*testimonial*/
