@@ -16,7 +16,7 @@ body.lock{
     overflow: hidden;
 }
                                                                    /*header*/
-.header{
+header{
     background: url(../img/banner.png);
     background-size: cover;
 }
@@ -296,7 +296,7 @@ iframe {
 }
                                                                             /*testimonial*/
                                                                           /*footer*/
-.footer{
+footer{
     background-color:#0F1521;
     color: #0F1521;
 }
@@ -370,7 +370,7 @@ a{
     text-decoration:none ;
 }
 
-footer{
+.footer-text{
     width:100%;
     background-color:white;
     text-align:center ;

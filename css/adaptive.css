@@ -38,6 +38,10 @@
         gap: 40px;
         margin-top: -40px;
         margin-left: 100px;
+        color: white;
+    }
+    .dropdown i:hover{
+        color: #0F1521;
     }
     .text-lg-start{
         text-align: start !important;
@@ -117,15 +121,16 @@
         margin: -4% 0 10% 10%;
         gap: 20px;
     }
-    .dropdown{
+    .dropdown {
         margin-left: 35%;
         display: flex;
         gap: 40px;
-        color: white;
     }
-    .dropdown i:hover{
-        color: #0F1521;
-    }
+    /*    color: white;*/
+    /*}*/
+    /*.dropdown i:hover{*/
+    /*    color: #0F1521;*/
+    /*}*/
     .text-lg-start {
         margin-left: 8%;
         margin-top: 6%;
